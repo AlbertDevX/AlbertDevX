@@ -3,7 +3,6 @@
 Soy un desarrollador apasionado por la tecnología. Aquí hay algunas cosas sobre mí:
 
 - 🌱 Estoy aprendiendo sobre **PHP PocketMine 5**.
-- 💼 Trabajo en **[SkyLand Hosting](https://skylandhosting.net) y [BitwerHosting](https://bitwerhosting.xyz)**.
 - 📫 Puedes contactarme en discord como **albert3_0**.
 
 ## Proyectos Destacados
